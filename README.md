@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello, I'm Héctor Calvo
 
-<!--
-**hcalvo-dev/hcalvo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Web Developer & DevOps Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I specialize in developing modern web applications and building robust DevOps pipelines, combining creativity with technical excellence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend:** Astro, React, JavaScript, Tailwind CSS
+- **Backend:** Node.js, PostgreSQL.
+- **DevOps:**  Python, Ansible, Terraform, Kubernetes, Helm, Grafana, Azure
+
+---
+
+### 🌟 Featured Project
+
+- [My Portfolio](http://62.171.190.137/)  
+  _A showcase of my latest web development and DevOps work._
+
+---
+
+### 💡 What I Love
+
+- Building engaging, performant web apps
+- Automating infrastructure and deployments
+- Exploring new technologies and best practices in DevOps
+
+---
+
+### 📬 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-calvo-s%C3%A1nchez/)
+
+---
+
+_Solving problems with code and infrastructure._
