@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I specialize in developing modern web applications
 
 ---
 
----
 
 ## 🌟 Featured Project
 
