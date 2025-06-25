@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I specialize in developing modern web applications
 ## 🌟 Featured Project
 
 - [My Portfolio](http://62.171.190.137/)  
-  _A showcase of my latest web development and DevOps work._
+  _Technical portfolio with integration of web development and DevOps automation in a productive environment._
 
 ---
 
